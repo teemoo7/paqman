@@ -1,0 +1,2 @@
+# paqman
+Pacman game
